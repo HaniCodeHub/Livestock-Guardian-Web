@@ -76,12 +76,12 @@
 
 Pakistan has **over 80 million livestock** animals with:
 
-- ❌ No digital identity system
-- ❌ Rampant livestock theft
-- ❌ Fake ownership disputes
-- ❌ No health tracking records
-- ❌ Manual and corrupt valuation
-- ❌ Zero traceability
+-  No digital identity system
+-  Rampant livestock theft
+-  Fake ownership disputes
+-  No health tracking records
+-  Manual and corrupt valuation
+-  Zero traceability
 
 </td>
 <td width="50%">
@@ -90,12 +90,12 @@ Pakistan has **over 80 million livestock** animals with:
 
 **Livestock Guardian** solves this with:
 
-- ✅ Biometric muzzle recognition
-- ✅ AI-powered livestock analysis
-- ✅ Digital ownership ledger
-- ✅ Real-time theft alerts
-- ✅ Gemini AI health insights
-- ✅ SaaS-grade infrastructure
+-  Biometric muzzle recognition
+-  AI-powered livestock analysis
+-  Digital ownership ledger
+-  Real-time theft alerts
+-  Gemini AI health insights
+-  SaaS-grade infrastructure
 
 </td>
 </tr>
@@ -109,16 +109,16 @@ Pakistan has **over 80 million livestock** animals with:
 
 | Feature | Description | Status |
 |---------|-------------|--------|
-| 🔐 **Authentication** | Email/Phone login with JWT & OTP | ✅ Live |
-| 🐄 **Livestock Registration** | Complete animal profiles with images | ✅ Live |
-| 🧬 **Biometric Identity** | Siamese Neural Network muzzle recognition | ✅ Live |
-| 🤖 **AI Assistant** | Gemini-powered livestock Q&A | ✅ Live |
-| 🔬 **Breed Prediction** | AI vision-based breed identification | ✅ Live |
-| 💊 **Health Insights** | AI-generated health recommendations | ✅ Live |
-| 💰 **Price Estimation** | Market-based AI pricing suggestions | ✅ Live |
-| 🚨 **Theft Reporting** | Instant global theft alerts | ✅ Live |
-| 📋 **Ownership Transfer** | Immutable ownership ledger | ✅ Live |
-| 📊 **Analytics Dashboard** | Real-time livestock metrics | ✅ Live |
+| 🔐 **Authentication** | Email/Phone login with JWT & OTP |  Live |
+| 🐄 **Livestock Registration** | Complete animal profiles with images |  Live |
+| 🧬 **Biometric Identity** | Siamese Neural Network muzzle recognition |  Live |
+| 🤖 **AI Assistant** | Gemini-powered livestock Q&A |  Live |
+| 🔬 **Breed Prediction** | AI vision-based breed identification |  Live |
+| 💊 **Health Insights** | AI-generated health recommendations |  Live |
+| 💰 **Price Estimation** | Market-based AI pricing suggestions |  Live |
+| 🚨 **Theft Reporting** | Instant global theft alerts |  Live |
+| 📋 **Ownership Transfer** | Immutable ownership ledger |  Live |
+| 📊 **Analytics Dashboard** | Real-time livestock metrics |  Live |
 
 </div>
 
@@ -224,7 +224,7 @@ pgvector → Similarity Search → Match Found?
 
 ---
 
-## 🚀 Live Deployment
+##  Live Deployment
 
 <div align="center">
 
