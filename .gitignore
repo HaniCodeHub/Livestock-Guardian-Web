@@ -1,0 +1,72 @@
+# ===================================
+# LIVESTOCK GUARDIAN — .gitignore
+# ===================================
+
+# Environment Variables (NEVER commit these)
+.env
+.env.local
+.env.production
+.env.development
+*.env
+
+# API Keys (Security)
+secrets.json
+config/keys.json
+
+# Node & Frontend
+node_modules/
+dist/
+build/
+.next/
+.cache/
+frontend/node_modules/
+frontend/dist/
+
+# Python & Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+*.egg-info/
+dist/
+*.so
+
+# AI Models (too large for GitHub)
+*.pth
+*.pt
+*.onnx
+*.pkl
+*.h5
+biometric-model/dataset/
+biometric-model/exports/*.onnx
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Testing
+coverage/
+.pytest_cache/
+htmlcov/
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
